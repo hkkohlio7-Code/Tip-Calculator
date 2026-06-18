@@ -48,7 +48,7 @@ Tip-Calculator/
 
 ## Live Demo
 
-Add your GitHub Pages link here.
+https://hkkohlio7-code.github.io/Tip-Calculator/
 
 ## Future Improvements
 
