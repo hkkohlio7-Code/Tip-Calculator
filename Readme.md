@@ -44,7 +44,7 @@ Tip-Calculator/
 
 ## Screenshot
 
-![Tip Calculator Screenshot](screnshoot.png)
+![Tip Calculator Screenshot](Screnshoot.png)
 
 ## Live Demo
 
