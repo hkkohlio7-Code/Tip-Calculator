@@ -11,7 +11,6 @@ function calcTip(){
     console.log(totalAmt);
     Amt.innerText = totalAmt.toFixed(2); 
     Amt.style.fontWeight = "700";
-    Amt.style.fontSize = "1.5rem";
 }
 
 calcBtn.addEventListener("click", ()=>{
